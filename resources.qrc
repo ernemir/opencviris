@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resources/ic_camera_black_24dp_1x.png</file>
+        <file>resources/ic_exit_to_app_black_24dp_1x.png</file>
+        <file>resources/ic_people_black_24dp_1x.png</file>
+        <file>resources/ic_photo_camera_black_24dp_1x.png</file>
+        <file>resources/ic_remove_red_eye_black_24dp_1x.png</file>
+        <file>resources/ic_photo_camera_black_24dp_1x (copia).png</file>
+    </qresource>
+    <qresource prefix="/cascades">
+        <file>cascades/haarcascade_eye_tree_eyeglasses.xml</file>
+        <file>cascades/haarcascade_eye.xml</file>
+        <file>cascades/haarcascade_frontalface_alt_tree.xml</file>
+        <file>cascades/haarcascade_frontalface_alt.xml</file>
+        <file>cascades/haarcascade_frontalface_alt2.xml</file>
+        <file>cascades/haarcascade_frontalface_default.xml</file>
+        <file>cascades/haarcascade_lefteye_2splits.xml</file>
+        <file>cascades/haarcascade_mcs_eyepair_big.xml</file>
+        <file>cascades/haarcascade_mcs_eyepair_small.xml</file>
+        <file>cascades/haarcascade_mcs_righteye.xml</file>
+        <file>cascades/haarcascade_righteye_2splits.xml</file>
+    </qresource>
+</RCC>
