@@ -25,6 +25,7 @@ private slots:
     void on_actionSalir_triggered();
     void on_actionIniciar_Captura_triggered();
     void on_actionDetener_Captura_triggered();
+    void on_actionAbout_triggered();
 
 private:
     Ui::MainWindow *ui;

@@ -53,6 +53,11 @@ void MainWindow::on_actionSalir_triggered()
     close();
 }
 
+void MainWindow::on_actionAbout_triggered()
+{
+    QMessageBox::about(this, "Acerca de ...", "OpenCV Iris para PID 7744 \n desarrollado por...");
+}
+
 void MainWindow::on_actionIniciar_Captura_triggered()
 {
     if (myPlayer->isStopped())
